@@ -1,0 +1,31 @@
+.img_slider{
+    height: 400px;
+    width: 60%;
+    overflow: hidden;
+    border-radius: 4px;
+}
+.carousel-caption{
+    position: static;
+    width: 30%;
+    margin-left: 40px;
+}
+.carousel-item{
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.carousel-itemSlider{
+    display: flex;
+}
+.carousel-dark .carousel-indicators [data-bs-target]{
+    background-color: #016596;
+}
+.carousel-indicators{
+    bottom: -40px;
+}
+
+
+
+
+
+
